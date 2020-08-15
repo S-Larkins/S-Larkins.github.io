@@ -5,7 +5,8 @@
 ### Category Name 1 
 
 [Flavor Music Redesign ](/flavor/index.html)
-<img src="../flavor/images/flavorT.jpeg?raw=true"/>
+(/images/flavorT.jpg)
+Format: ![Alt Text](url)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
