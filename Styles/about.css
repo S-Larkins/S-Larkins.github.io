@@ -1,0 +1,108 @@
+/*logo*/
+
+header img {
+  float:left;
+  width: 250px;
+  margin-left: 5%;
+  margin-top: 2%;
+}
+
+/*background image*/
+body {
+  background: black url(../Images/backgroundHeart.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color:#464646;
+}
+
+/* generall navigation list style */
+
+nav a {
+  text-decoration: none;
+}
+
+/* Horizontal Nav list */
+
+nav.horizontalNAV {
+  margin-left: 50%;
+  width: 66%;
+}
+
+nav.horizontalNAV li {
+  font-size: 130%;
+  float: left;
+  padding: 15px 0px;
+  text-align: right;
+  width: 15%;
+  list-style-type: none;
+}
+
+nav.horizontalNAV li a {
+  color: black;
+}
+
+nav.horizontalNAV li a:hover {
+ font-size: 150%;
+ font-weight: bold;
+}
+
+/*content*/
+
+#about {
+
+  background-color: rgba(0,0,0,0.6);
+  border: 1px solid black;
+  float: right;
+  margin-right: 5%;
+  margin-top: 10%;
+  margin-bottom: 5%;
+  margin-left: 50%;
+  padding-left: 2%;
+  padding-right: 1%;
+  display: inline-block;
+}
+
+h1 {
+font-family: 'Fredericka the Great', cursive;
+  float: right;
+  margin-top: 3%;
+  margin-right:23%;
+  margin-bottom: -5%;
+  font-size: 600%;
+  color: rgb(42,0,128);
+}
+
+h2 {
+  color:pink;
+  font-size: 200%;
+  text-decoration: underline;
+  font-family: 'Fredericka the Great', serif;
+}
+
+p{
+  color: white;
+font-size: 150%;
+
+}
+
+#about img {
+  width: 300px;
+  float: left;
+  border: 1px solid white;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+#about p .right {
+  float: right;
+
+}
+
+q {
+  color: white;
+  font-size: 180%;
+  font-weight: bold;
+  font-family: 'EB Garamond', serif;
+  color: PaleTurquoise;
+}

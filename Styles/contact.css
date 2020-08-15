@@ -1,0 +1,116 @@
+header img {
+  float:left;
+  width: 250px;
+  margin-left: 5%;
+  margin-top: 2%;
+}
+
+/*background image*/
+body {
+  background: black url(../Images/background2.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color:#464646;
+}
+
+/* generall navigation list style */
+
+nav a {
+  text-decoration: none;
+}
+
+/* Horizontal Nav list */
+
+nav.horizontalNAV {
+  margin-left: 50%;
+  width: 66%;
+}
+
+nav.horizontalNAV li {
+  font-size: 130%;
+  float: left;
+  padding: 15px 0px;
+  text-align: right;
+  width: 15%;
+  list-style-type: none;
+}
+
+nav.horizontalNAV li a {
+  color: black;
+}
+
+nav.horizontalNAV li a:hover {
+ font-size: 150%;
+ font-weight: bold;
+
+}
+
+/* form*/
+#contact {
+  display: grid;
+  grid-template-columns: 2fr;
+  grid-template-rows: 2fr;
+  grid-gap: 20px;
+  margin-right: 5%;
+  margin-left: 65%;
+  float: right;
+ width: 100%;
+
+}
+
+#form{
+width:40%;
+
+float: right;
+}
+
+.required {
+  border-left: 4px solid red;
+}
+
+label {
+  font-size: 150%;
+  size: 200%;
+}
+
+h1 {
+
+  font-size: 300%;
+  position: center;
+  color: green;
+}
+h2 {
+
+  font-size: 300%;
+  color: green;
+}
+div span.fName label.error, div span.lName label.error {
+	font-size: 0.8em;
+	color: #F00;
+	font-weight: bold;
+  display: inline-block;
+
+
+}
+div span.fName input.error, div span.lName input.error{
+  background: #FFA9B8;
+  border: 1px solid red;
+}
+form {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 20px;
+}
+.contactUS label.error{
+	font-size: 0.8em;
+	color: #F00;
+	font-weight: bold;
+	display: block;
+
+}
+.contactUS input.error, .contactUS select.error {
+	background: #FFA9B8;
+	border: 1px solid red;
+}

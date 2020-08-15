@@ -1,0 +1,105 @@
+/*logo*/
+
+header img {
+  float:left;
+  width: 250px;
+  margin-left: 5%;
+  margin-top: 2%;
+}
+
+/*background image*/
+body {
+  background: black url(../Images/background3.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color:#464646;
+}
+
+/* generall navigation list style */
+
+nav a {
+  text-decoration: none;
+}
+
+/* Horizontal Nav list */
+
+nav.horizontalNAV {
+  margin-left: 50%;
+  width: 66%;
+}
+
+nav.horizontalNAV li {
+  font-size: 130%;
+  float: left;
+  padding: 15px 0px;
+  text-align: right;
+  width: 15%;
+  list-style-type: none;
+}
+
+nav.horizontalNAV li a {
+  color: black;
+}
+
+nav.horizontalNAV li a:hover {
+ font-size: 150%;
+ font-weight: bold;
+
+}
+/*content*/
+#container {
+  display: inline-block;
+  width:100%;
+
+}
+#content {
+background-image: url(../Images/parchment2.png);
+background-repeat: no-repeat;
+background-size: 500px;
+  float: left;
+  margin-left: 15%;
+  margin-top: 10%;
+  margin-bottom: 5%;
+  padding-left: 2%;
+  padding-right: 1%;
+  display: inline-block;
+  width: 500px;
+  height: 361px;
+}
+
+#content img {
+width: 800px;
+background-repeat: no-repeat;
+}
+
+h1{
+  margin-left: 30%;
+  margin-top: -5%;
+  margin-bottom: -50px;
+  font-size: 350%;
+font-family: 'Bevan', cursive;
+color: rgb(0,102,51);
+}
+
+h2 {
+  font-size: 300%;
+  color: black;
+  text-decoration: underline;
+  margin-left: 30%;
+  font-family: 'Princess Sofia', cursive;
+  margin-bottom: -3%;
+}
+#content ul li {
+  color: black;
+  font-size: 210%;
+  font-family: 'Handlee', cursive;
+  margin-left: 25%;
+}
+/*slideshow*/
+#wowslider-container1 {
+  float: right;
+  margin-right: 5%;
+  margin-top: 5%;
+}

@@ -1,0 +1,117 @@
+
+/*logo*/
+
+header img {
+  float:left;
+  width: 250px;
+  margin-left: 5%;
+  margin-top: 2%;
+}
+
+
+/*background image*/
+body {
+  background: black url(../Images/background-g.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color:#464646;
+
+
+}
+
+/* generall navigation list style */
+
+nav a {
+  text-decoration: none;
+}
+
+/* Horizontal Nav list */
+
+nav.horizontalNAV {
+  margin-left: 50%;
+  width: 66%;
+
+}
+
+nav.horizontalNAV li {
+  font-size: 130%;
+  float: left;
+  padding: 15px 0px;
+  text-align: right;
+  width: 15%;
+  list-style-type: none;
+}
+
+nav.horizontalNAV li a {
+  color: black;
+}
+
+nav.horizontalNAV li a:hover {
+ font-size: 150%;
+ font-weight: bold;
+}
+
+/*slider*/
+
+#gallery  {
+	float: right;
+	width: 110px;
+	margin-right: 8%;
+	margin-left: ;
+  margin-top: 1.2%;
+	border-right: white 1px dotted;
+  padding-right: 1%;
+
+}
+
+#gallery img:hover {
+  width: 100px;
+  height: 100px;
+}
+
+#gallery img {
+	display: inline-block;
+	margin: 0 0 10px 10px;
+	border: 2px solid rgb(0,0,0);
+  width: 91px;
+  height: 91px;
+
+
+
+}
+#photo {
+float: right;
+margin-top: -1%;
+	margin-right: 45%;
+position: relative;
+}
+#photo img {
+
+  width:100%auto;
+  height: auto;
+	position: absolute;
+  top: 40px;
+border:2px solid black;
+}
+
+/*title*/
+
+h1 {
+  font-size: 250%;
+  color: rgb(42,0,128);
+  float: left;
+  font-family: 'Bevan', cursive;
+  color: orange;
+margin-bottom: -10%;
+  margin-left: 10%;
+  width: 40%;
+
+
+}
+
+#container {
+  width: 100%;
+  display: inline-block;
+}
