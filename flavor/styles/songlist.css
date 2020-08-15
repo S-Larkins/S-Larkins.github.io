@@ -1,0 +1,103 @@
+.left {
+  float: left;
+
+}
+.right {
+float: right;
+}
+ul {
+  margin-left: 30%;
+  margin-bottom: -10%;
+  height: 150px;
+
+}
+ul.med{
+  height: 180px;
+}
+ul.medi{
+  height: 220px;
+}
+ul.long {
+  height: 305px;
+}
+h1{
+  text-align: center;
+  color: white;
+  background-color: #D2A727;
+  font-weight: bold;
+  padding: 1% 0;
+  font-family: 'Merriweather', serif;
+}
+h2 {
+  color: var(flavor-blue);
+  padding: .5% 0 1% 10%;
+
+  font-weight: bold;
+  font-size: 25px;
+  height: 5px;
+
+}
+h3{
+  font-size: 20px;
+  width: 250px;
+  text-decoration: underline;
+  font-family: serif;
+}
+li.artist {
+  list-style: none;
+}
+h4 {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  background-color: #151464;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  list-style-type: none;
+  font-family: 'Merriweather', serif;
+}
+.faq {
+  clear: both;
+  background-color: var(--flavor-gold);
+  border: solid 3px #151464;
+  border-radius: 30px;
+  margin-bottom: 3%;
+
+
+
+}
+.background{
+  background-image: url(../images/tan.png);
+}
+
+
+.answer{
+    margin-top: 5%;
+}
+img {
+  display:block;
+  width: 70%;
+  margin: 2% auto;
+}
+body{
+  background-color: rgba(0,0,0,.8);
+}
+div.row {
+  padding-top: 5%;
+
+}
+hr{
+  height: 1px;
+  background-color: black;
+  margin-top: -2%;
+}
+
+/* small devices*/
+
+@media (max-width:660px){
+  ul{
+    text-align: center;
+    
+  }
+}

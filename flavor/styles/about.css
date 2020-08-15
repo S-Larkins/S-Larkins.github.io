@@ -1,0 +1,259 @@
+/* applies to ALL widths */
+.container {
+  max-width: 100%;
+}
+.columns{
+  margin: 0px;
+}
+/*nav bar*/
+.bar{
+  background-color:#151464;
+  height: 105px;
+  width: 100%;
+
+}
+.six.columns{
+  width: 50%;
+}
+.logo {
+  background-image: url(../images/fmlogo.jpg);
+  background-repeat: no-repeat;
+  background-size: 90px;
+background-position: 1% 7px;
+  z-index: 5;
+}
+.nav {
+  text-align: right;
+  padding-top: 40px;
+  z-index: 40;
+}
+.nav a{
+  color: white;
+  text-decoration: none;
+  margin-right: 2%;
+  font-weight: bold;
+
+}
+.nav a:hover {
+  color: orange;
+}
+div a.primary {
+  color: #D2A727;
+}
+/*hamburger*/
+
+
+/*Header*/
+.headbg {
+  background-color: #F2F2F2;
+  height: 110px;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  padding-top: 3%;
+}
+h2.who {
+  background-color: #151464;
+  color: white;
+  margin-left:-200px;
+  text-align: center;
+}
+h2.face {
+  background-color: #151464;
+  color: white;
+  margin-right:-200px;
+  text-align: center;
+}
+/*first section*/
+img {
+
+  max-width: 100%;
+  max-height: auto;
+
+}
+
+h3 {
+  background-color: #151464;
+  color: white;
+  text-align: center;
+  margin-bottom: 0px;
+  font-size: 4.0rem;
+  padding-top: 2%;
+  padding-bottom: 2%;
+
+}
+p {
+padding: 5%;
+}
+.gold{
+  background-color: #D2A727;
+  height: 500px;
+}
+
+
+div..columns.about{
+  background-color: black;
+}
+/*specialties*/
+
+h3 {
+  color: white;
+  text-align: center;
+  font-size: 3.6rem;
+}
+h4 {
+  text-align: left;
+}
+.row.sp{
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.three.columns{
+  padding-left: 5%;
+}
+.four.columns.list{
+
+  padding-top: 4.5%;
+}
+.blue {
+  background-color:#151464;
+}
+.sax {
+float: right;
+}
+span {
+  color: #D2A727;
+  font-weight: bold;
+  font-size: 18px;
+}
+.grey{
+  background-color: #F2F2F2;
+}
+
+.button{
+  background-color: #D2A727;
+  float: left;
+  margin-top: 50%;
+}
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.list {
+  height: 50%;
+}
+/*footer*/
+
+footer {
+  background-color:#151464;
+  color: white;
+  height: 90px;
+}
+
+/*responsivness*/
+
+/* tablet-desktop */
+
+@media (min-width: 781px) {
+
+  .menu-wrap .hamburger, .menu-wrap .toggler  {
+    display: none;
+  }
+hr {
+  display: none;
+}
+.button {
+  margin-top: 80px;
+}
+}
+
+/* medium */
+
+@media (max-width:780px) {
+
+  .logo{
+    background-size: 80px;
+  }
+
+  .nav a{
+
+    display: none;
+}
+.six.columns {
+  width: 100%;
+
+}
+
+
+h2 {
+
+}
+.menu-wrap .hamburger, .menu-wrap .toggler{
+  position: 0, 500px;
+}
+.sax{
+  position: none;
+}
+hr {
+  display: none;
+}
+.five.columns{
+  padding-top: -10%;
+}
+.button {
+  margin-top: 80px;
+}
+}
+
+/* small devices*/
+
+@media (max-width:550px) {
+
+  .logo{
+    background-size: 80px;
+  }
+
+  .nav a{
+
+    display: none;
+}
+.six.columns {
+  width: 100%;
+}
+.three.columns{
+  width: 50%;
+}
+.four.columns{
+  width: 50%;
+}
+h4 {
+  padding-top: 15%;
+  text-align: right;
+
+}
+.menu-wrap .hamburger, .menu-wrap .toggler{
+  position: 0, 500px;
+}
+.five.columns{
+  width: 100%;
+}
+li {
+  padding-top: 10%;
+}
+.four.columns.list{
+
+  padding-top: 34%;
+}
+hr{
+  width: 300%;
+  display:
+}
+.button {
+  margin-top: 20px;
+}
+
+}

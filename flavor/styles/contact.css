@@ -1,0 +1,90 @@
+h1{
+  font-weight: bold;
+}
+h2 {
+  font-size: 3.3rem;
+  font-weight: 400;
+}
+h3{
+  font-size: 2.2rem;
+  font-family: sans-serif;
+
+}
+.notice {
+  border: 1px solid #151464;
+  border-radius: 5px;
+  padding: 3%;
+}
+p {
+  font-weight: bold;
+  padding-top: 5%;
+}
+.center {
+  text-align: center;
+}
+.row.section{
+padding-top: 5%;
+}
+
+div a.link {
+  font-size: 20px;
+  text-decoration: none;
+  padding: 5%;
+  margin-bottom: -20px;
+  font-family: sans-serif;
+}
+
+.mail {
+  margin-top: 5%;
+}
+
+div img {
+  margin-top: 5%;
+  height: 20px;
+}
+h1 {
+  margin-top: 5%;
+  text-align: center;
+}
+form {
+  margin-right: 5%;
+}
+/* form*/
+input.marked, .marked {
+  border-left: 4px solid red;
+}
+
+div span.fName label.error, div span.lName label.error {
+	font-size: 0.8em;
+	color: #F00;
+	font-weight: bold;
+  display: inline-block;
+
+
+}
+div span.fName input.error, div span.lName input.error{
+  background: #FFA9B8;
+  border: 1px solid red;
+}
+
+.contactUS label.error{
+	font-size: 0.8em;
+	color: #F00;
+	font-weight: bold;
+	display: block;
+
+}
+.contactUS input.error, .contactUS select.error {
+	background: #FFA9B8;
+	border: 1px solid red;
+}
+
+
+/*responsivness*/
+
+
+ @media (max-width:850px){
+   .six.columns {
+     width: 100%;
+   }
+ }
