@@ -25,19 +25,15 @@ A portfolio design for a photographer utilizing HTML5, CSS, & Jquery.
 
 ---
 ### Product Landing Page
-A simple Product Landing Page using only HTML5 and CSS
+
+A simple Product Landing Page using only HTML5 and CSS.
+
 [Product Landing Page](/ProductLanding/ProductLandingPage.html)
-<img src="images/flavorT.jpg?raw=true"/>
+![tm](images/landingtm.png)
 
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
@@ -45,5 +41,5 @@ A simple Product Landing Page using only HTML5 and CSS
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
 <!-- Remove above link if you don't want to attibute -->
