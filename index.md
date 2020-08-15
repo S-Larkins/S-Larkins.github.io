@@ -20,7 +20,7 @@ band called Flavor Music. Presently, there are only five working pages:
 
 A portfolio design for a photographer utilizing HTML5, CSS, & Jquery.
 
-[Photographer Portfolio](/portfolio/index.html)
+[Photographer Portfolio](home.html)
 ![tm](images/portfoliotm.png)
 
 ---
