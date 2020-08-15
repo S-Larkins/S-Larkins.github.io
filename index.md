@@ -35,11 +35,11 @@ A simple Product Landing Page using only HTML5 and CSS.
 
 
 
----
 
 
 
 
----
+
+
 
 <!-- Remove above link if you don't want to attibute -->
