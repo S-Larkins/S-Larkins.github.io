@@ -11,7 +11,7 @@ header img {
 
 /*background image*/
 body {
-  background: black url(../Images/background-g.jpg);
+  background: black url(../images/background-g.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
