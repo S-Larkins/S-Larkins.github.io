@@ -24,7 +24,9 @@ A portfolio design for a photographer utilizing HTML5, CSS, & Jquery.
 ![tm](images/portfoliotm.png)
 
 ---
-[Project 3 Title](/ProductLanding/ProductLandingPage.html)
+### Product Landing Page
+A simple Product Landing Page using only HTML5 and CSS
+[Product Landing Page](/ProductLanding/ProductLandingPage.html)
 <img src="images/flavorT.jpg?raw=true"/>
 
 ---
