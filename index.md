@@ -3,8 +3,13 @@
 ---
 
 ### [Flavor Music Websight Redesign] 
-This is my most recent work in progress. It is redesign of a live entertainment band called Flavor Music. Presently, there are only five working pages 
-*Home *About *Songlist *FAQ *Contact
+This is my most recent work in progress. It is redesign of a live entertainment band called Flavor Music. 
+Presently, there are only five working pages:
+*Home 
+*About 
+*Songlist 
+*FAQ 
+*Contact
 
 [Flavor Music Redesign ](/flavor/index.html)
 ![tm](images/flavorT.png)
