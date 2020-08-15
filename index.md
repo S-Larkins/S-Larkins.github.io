@@ -16,8 +16,8 @@ Presently, there are only five working pages:
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="flavor/images/flavorT.jpg"/>
+[Project 2 Title](/portfolio/home.html)
+![] (images/portfoliotm.png)
 
 ---
 [Project 3 Title](http://example.com/)
