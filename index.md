@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Flavor Music Redesign ](/flavor/index.html)
-(/images/flavorT.jpg)
+![](/images/flavorT.jpg)
 Format: ![Alt Text](url)
 
 ---
