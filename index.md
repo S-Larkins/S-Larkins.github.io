@@ -29,7 +29,7 @@ A portfolio design for a photographer utilizing HTML5, CSS, & Jquery.
 A simple Product Landing Page using only HTML5 and CSS.
 
 [Product Landing Page](/ProductLanding/ProductLandingPage.html)
-![tm](images/landingtm.png)
+![tm](images/landingtn.png)
 
 ---
 
