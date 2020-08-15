@@ -24,7 +24,7 @@ A portfolio design for a photographer utilizing HTML5, CSS, & Jquery.
 ![tm](images/portfoliotm.png)
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title](/ProductLanding/ProductLandingPage.html)
 <img src="images/flavorT.jpg?raw=true"/>
 
 ---
