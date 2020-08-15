@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Photographer Portfolio</title>
+<link href="https://fonts.googleapis.com/css?family=Bevan&display=swap" rel="stylesheet">
+<link href='../Styles/portfolio.css' rel='stylesheet'/>
+<script src="../_js/jquery.min.js"></script>
+<script>
+$(document).ready(function() {
+
+$('#gallery img').each(function(i) {
+	var imgFile = $(this).attr('src');
+	var preloadImage = new Image();
+  var imgExt = /(\.\w{3,4}$)/;
+  preloadImage.src = imgFile.replace(imgExt,'_h$1');
+
+
+}); // end each
+
+	$('#gallery a').click(function(evt) {
+		//don't follow link
+		 evt.preventDefault();
+		 //get path to new image
+	   var imgPath = $(this).attr('href');
+		 //get reference to old image
+		 var oldImage = $('#photo img');
+
+			 //create HTML for new image
+			 var newImage = $('<img src="' + imgPath +'">');
+			 //make new image invisible
+			 newImage.hide();
+			 //add to the #photo div
+			 $('#photo').prepend(newImage);
+			 //fade in new image
+			 newImage.fadeIn(1000);
+
+			 //fade out old image and remove from DOM
+			 oldImage.fadeOut(1000,function(){
+		     $(this).remove();
+				});
+	}); // end click
+
+	$('#gallery a:first').click();
+}); // end ready
+</script>
+</head>
+<body>
+	<header>
+		<img src='../Images/logo.gif' alt='logo'>
+	</header>
+  <!--nav bar-->
+  <nav class="horizontalNAV">
+     <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about_me.html">About me</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="contact.html">Contact</a></li>
+     </ul>
+  </nav>
+	<div id='container'>
+
+<!--slider-->
+<div class="content">
+	<div class="main">
+
+		<div id="gallery"> <a href="../Images/stream.jpg"><img src="../Images/stream_sm.jpg"  alt="stream"></a> <a href="../Images/mountains_h.jpg"><img src="../Images/mountains_sm.jpg" alt="mountains"></a> <a href="../Images/tower_h.jpg"><img src="../Images/tower_sm.jpg"  alt="tower"></a> <a href="../Images/volcano.jpg"><img src="../Images/volcano_sm.jpg" alt="volcano"></a> <a href="../Images/summer.jpg"><img src="../Images/summer_sm.jpg"  alt="summer"></a></div>
+		<div id="photo"></div>
+	</div>
+</div>
+</div>
+
+
+</body>
+</html>
