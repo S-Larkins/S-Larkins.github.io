@@ -16,7 +16,9 @@ Presently, there are only five working pages:
 
 
 ---
-[Photographer portfolio](/portfolio/home.html)
+### Photographer Portfolio
+A portfolio design for a photographer utilizing HTML5, CSS, & Jquery.
+[Photographer Portfolio](/portfolio/home.html)
 ![tm](images/portfoliotm.png)
 
 ---
