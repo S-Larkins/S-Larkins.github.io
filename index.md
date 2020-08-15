@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="flavor/images/flavorT.jpeg raw=true"/>
+<img src="flavor/images/flavorT.jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)
