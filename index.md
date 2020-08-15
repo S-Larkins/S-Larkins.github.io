@@ -16,8 +16,8 @@ Presently, there are only five working pages:
 
 
 ---
-[Project 2 Title](/portfolio/home.html)
-![] (images/portfoliotm.png)
+[Photographer portfolio](/portfolio/home.html)
+![tn] (images/portfoliotm.png)
 
 ---
 [Project 3 Title](http://example.com/)
