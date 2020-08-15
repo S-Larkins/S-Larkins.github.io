@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### [Flavor Music Redesign] (/flavor/index.html) 
 
 [Flavor Music Redesign ](/flavor/index.html)
 ![tm](images/flavorT.png)
