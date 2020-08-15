@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Flavor Music Redesign ](/flavor/index.html)
-![tm](images/logo.jpg)
+![tm](images/logo.png)
 
 
 ---
