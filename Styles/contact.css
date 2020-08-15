@@ -7,7 +7,7 @@ header img {
 
 /*background image*/
 body {
-  background: black url(../Images/background2.jpg);
+  background: black url(../images/background2.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
