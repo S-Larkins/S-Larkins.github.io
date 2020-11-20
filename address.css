@@ -1,0 +1,25 @@
+h1{
+  text-align: center;
+  font-family: 'Satisfy', cursive;
+  padding-top: 10px;
+}
+
+img {
+  width: 50px;
+  padding-top: 2px;
+
+}
+
+.icon{
+  padding-top: 20px;
+
+}
+
+span {
+  font-size: 20px;
+  text-decoration: none;
+}
+
+h5{
+  text-align: center;
+}

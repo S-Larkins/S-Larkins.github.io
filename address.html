@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="address.css">
+    <title>Address Book</title>
+  </head>
+  <body>
+    <h1>Address Book</h1>
+    <nav class="navbar navbar-light bg-warning justify-content-between">
+  <a class="navbar-brand">Contacts</a>
+  <form class="form-inline">
+    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+    <button class="btn btn-info my-2 my-sm-0" type="submit">Search</button>
+  </form>
+</nav>
+
+
+<!--Add Contact Modal-->
+
+<div class="modal fade" id="modalRegisterForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+  aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-100 font-weight-bold">New Contact</h4>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+        <div class="md-form mb-5">
+          <i class="fas fa-user prefix grey-text"></i>
+          <input type="text" id="orangeForm-name" class="form-control validate">
+          <label data-error="wrong" data-success="right" for="orangeForm-name">First name</label>
+          <i class="fas fa-user prefix grey-text"></i>
+          <input type="text" id="orangeForm-name" class="form-control validate">
+          <label data-error="wrong" data-success="right" for="orangeForm-name">Last name</label>
+        </div>
+        <div class="md-form mb-5">
+          <i class="fas fa-envelope prefix grey-text"></i>
+          <input type="email" id="orangeForm-email" class="form-control validate">
+          <label data-error="wrong" data-success="right" for="orangeForm-email">Email address</label>
+        </div>
+
+        <div class="md-form mb-4">
+          <i class="fas fa-lock prefix grey-text"></i>
+          <input type="password" id="orangeForm-pass" class="form-control validate">
+          <label data-error="wrong" data-success="right" for="orangeForm-pass">Phone</label>
+        </div>
+
+      </div>
+      <div class="modal-footer d-flex ">
+        <button class="btn btn-info">Save</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="text-left">
+  <a href="" class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modalRegisterForm"><img src="contact.png">Add new contact</a>
+</div>
+
+           <nav class="navbar fixed-bottom navbar-light bg-light">
+           <a class="navbar-brand" href="#">Address Book</a>
+         </nav>
+<!--End Modal-->
+
+
+<!--Modal: Avatar 1 modal-->
+<div class="modal fade" id="modalLoginAvatar" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+  aria-hidden="true">
+  <div class="modal-dialog cascading-modal modal-avatar modal-sm" role="document">
+    <!--Content-->
+    <div class="modal-content">
+
+      <!--Header-->
+      <div class="modal-header">
+        <img src="avatarf.jpg" alt="avatar" class="rounded-circle img-responsive">
+        <a href="#">Remove Contact</a>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </div>
+      <!--Body-->
+      <div class="modal-body text-left mb-1 list-group list-group-flush">
+
+        <h5 class="mt-1 mb-2">Maria Doe</h5>
+
+        <p class="list-group-item ">555-555-5555</p>
+        <p class="list-group-item ">MariaDoe@email.com</p>
+
+
+
+
+        <div class="text-center mt-4">
+          <button class="btn btn-info mt-1">Edit Contact</button>
+        </div>
+      </div>
+
+    </div>
+    <!--/.Content-->
+  </div>
+</div>
+
+
+<div class="text-left">
+  <a href="" class="list-group-item list-group-item-action" data-toggle="modal" data-target="#modalLoginAvatar"><img src="avatarf.jpg" alt="avatar" class="rounded-circle img-responsive"> Maria Doe</a>
+</div>
+
+<!--end avatar 1 modal-->
+
+
+
+
+    <!--  JavaScript -->
+
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  </body>
+</html>
