@@ -32,7 +32,7 @@ A simple Product Landing Page using only HTML5 and CSS.
 ![tm](images/landingtn.png)
 
 ---
-[AddressBook](contact.html)
+[AddressBook](address.html)
 
 
 
