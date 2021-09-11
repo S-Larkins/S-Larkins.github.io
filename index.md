@@ -4,7 +4,7 @@
 ---
 ### Handyman Website
 A website for a handyman that I build utilizing a repurposed premade design.
-[Handyman Website Website](http://anrsolutionsservices.com/)
+[Handyman Website Website](http://anrsolutionsservices.com/){:target="_blank"}
 ![tm](images/anrHomepage.PNG)
 ### Real Estate Agent Website
 This is a project that I've contributed to. The homepage design as well as font and animation descicions were made by me. 
