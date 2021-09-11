@@ -17,9 +17,7 @@ This is a project that I've contributed to. The homepage design as well as font 
 
 ## Examples of Logos that I have Created
 ![tm](images/leotie-logo-side.png)
-
-<img src="images/ANR-Logo-Long.png" alt="logo" width="150"> <img src="images/ANR-Icon.jpg" alt="logo" width="150">
-
+![tm](images/ANR-Logo-Side.png)
 
 ---
 
