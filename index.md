@@ -16,7 +16,7 @@ This is a project that I've contributed to. The homepage design as well as font 
 ---
 
 ## Examples of Logos that I have Created
-![tm](images/Leotie_logo_Full.png) ![tm](images/Leotie-logo-head.png) ![tm](images/ANR-Logo-Long.png) ![tm](images/ANR-Icon.jpg)
+![tm](images/Leotie_logo_Full.png = 250x) ![tm](images/Leotie-logo-head.png) ![tm](images/ANR-Logo-Long.png) ![tm](images/ANR-Icon.jpg)
 
 ---
 
