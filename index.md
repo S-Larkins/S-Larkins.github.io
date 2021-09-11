@@ -12,13 +12,15 @@ A website for a handyman that I build utilizing a repurposed premade design.
 ### Real Estate Agent Website
 This is a project that I've contributed to. The homepage design as well as font and animation descicions were made by me. 
 [Real Estate Agent Website](https://paulabarrett.net/)
-<br>
+<br><br>
 ![tm](images/PaulaB.PNG)
 
 ---
 
 ## Examples of Logos that I have Created
 ![tm](images/leotie-logo-side.png)
+
+---
 ![tm](images/ANR-Logo-Side.png)
 
 ---
