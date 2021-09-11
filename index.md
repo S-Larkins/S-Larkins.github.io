@@ -5,7 +5,7 @@
 ### Handyman Website
 A website for a handyman that I build utilizing a repurposed premade design.
 [Handyman Website Website](http://anrsolutionsservices.com/)
-<br>
+<br><br>
 ![tm](images/anrHomepage.PNG)
 
 ---
@@ -39,7 +39,7 @@ band called Flavor Music. Presently, there are only five working pages:
 * Contact
 
 [Flavor Music Redesign ](/flavor/index.html)
-<br>
+<br><br>
 ![tm](images/flavorT.png)
 
 
@@ -49,7 +49,7 @@ band called Flavor Music. Presently, there are only five working pages:
 A portfolio design for a photographer utilizing HTML5, CSS, & Jquery.
 
 [Photographer Portfolio](/portfolio/index.html)
-<br>
+<br><br>
 ![tm](images/portfoliotm.png)
 
 ---
@@ -58,7 +58,7 @@ A portfolio design for a photographer utilizing HTML5, CSS, & Jquery.
 A simple Product Landing Page using only HTML5 and CSS.
 
 [Product Landing Page](/ProductLanding/ProductLandingPage.html)
-<br>
+<br><br>
 ![tm](images/landingtn.png)
 
 ---
