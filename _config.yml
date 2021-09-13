@@ -4,26 +4,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   First description 
   I am a web developer and designer with a passion for transforming people’s raw ideas into beautiful responsive websites that tell their stories and depict their vision.
   <br><br>
-###TECHNICAL SKILLS
-*Languages: HTML5, CSS, PHP, Javascript
-*Frameworks: JQuery, Bootstrap
-*Database: MySQL
-*Web Creation Platforms: WordPress, Wix
-*Page Builders: SiteOrigin, Elementor
-  <br><br>
-###DESIGN SKILLS
-*Adobe Photoshop
-*Adobe Illustrator
-*Logo Design
-*Typography
-*UX, UI, site architecture
-*Responsive Web Design
-  <br><br>
+
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-
 
 
 
