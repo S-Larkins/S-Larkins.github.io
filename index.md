@@ -2,9 +2,16 @@
 ---
 ## WordPress Projects that I have created or contributed to
 ---
+### Auto Repair Website
+A website for a handyman that I build utilizing a repurposed premade design.
+[Auto Repair Website](https://earlcopelandautoservices.com/)
+<br><br>
+![tm](images/earlAuto.jpg)
+
+---
 ### Handyman Website
 A website for a handyman that I build utilizing a repurposed premade design.
-[Handyman Website Website](http://anrsolutionsservices.com/)
+[Handyman Website](http://anrsolutionsservices.com/)
 <br><br>
 ![tm](images/anrHomepage.PNG)
 
