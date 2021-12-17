@@ -9,6 +9,13 @@ A website for a auto repair garage that I fully designed and integrated.
 ![tm](images/earlAuto.jpg)
 
 ---
+### E commerce Wesite
+A  E commerce website for a plant shop that I fully designed and integrated.
+[E commerce Website](https://plentifulplantsnursery.com/)
+<br><br>
+![tm](images/PlentifulPlants.JPG)
+
+---
 ### Handyman Website
 A website for a handyman that I build utilizing a repurposed premade design.
 [Handyman Website](http://anrsolutionsservices.com/)
