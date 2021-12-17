@@ -17,7 +17,7 @@ A  E commerce website for a plant shop that I fully designed and integrated.
 
 ---
 ### Handyman Website
-A website for a handyman that I build utilizing a repurposed premade design.
+A website for a handyman that I build utilizing a repurposed premade design. I also designed the logo.
 [Handyman Website](http://anrsolutionsservices.com/)
 <br><br>
 ![tm](images/anrHomepage.PNG)
