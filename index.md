@@ -3,7 +3,7 @@
 ## WordPress Projects that I have created or contributed to
 ---
 ### Auto Repair Website
-A website for a handyman that I build utilizing a repurposed premade design.
+A website for a auto repair garage that I fully designed and integrated.
 [Auto Repair Website](https://earlcopelandautoservices.com/)
 <br><br>
 ![tm](images/earlAuto.jpg)
