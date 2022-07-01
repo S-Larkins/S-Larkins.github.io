@@ -17,13 +17,7 @@ A  E commerce website for a plant shop that I fully designed and integrated.
 ![tm](images/PlentifulPlants.JPG)
 
 ---
-### Handyman Website
-A website for a handyman that I build utilizing a repurposed premade design. I also designed the logo.
-[Handyman Website](http://anrsolutionsservices.com/)
-<br><br>
-![tm](images/anrHomepage.PNG)
 
----
 ### Real Estate Agent Website
 This is a project that I've contributed to. The homepage design as well as font and animation descicions were made by me. 
 [Real Estate Agent Website](https://paulabarrett.net/)
