@@ -3,10 +3,10 @@ logo: "/images/Shannon-prof-profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
   I am a web developer, designer, and digital marketer with a passion for transforming people’s raw ideas into beautiful responsive websites. I love using my skills to help businesses thrive and grow.
-  <br><br>
+  <br>
  Skills: HTML5, CSS, Bootstrap, PHP, JavaScript, SQL, Adobe Illustrator, Figma, Photoshop, SEO, SEM, and social media marketing.  
 
-  <br><br><br>
+  <br><br>
  
   
 theme: jekyll-theme-minimal
