@@ -47,22 +47,6 @@ This is a project that I've contributed to. The homepage design as well as font 
 ## Projects I've created using HTML, CSS, & JavaScript/JQuery
 
 ---
-
-### Flavor Music Websight Redesign 
-This is my most recent work in progress. It is redesign of a live entertainment
-band called Flavor Music. Presently, there are only five working pages:
-* Home 
-* About 
-* Songlist 
-* FAQ 
-* Contact
-
-[Flavor Music Redesign ](/flavor/index.html)
-<br><br>
-![tm](images/flavorT.png)
-
-
----
 ### Photographer Portfolio
 
 A portfolio design for a photographer utilizing HTML5, CSS, & Jquery.
