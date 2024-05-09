@@ -2,11 +2,11 @@ title: Hi, Im Shannon # your name (or website title) here
 logo: "/images/Shannon-prof-profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
-  I am a web developer, designer, and digital marketer with a passion for transforming people’s raw ideas into beautiful responsive websites that tell their stories and depict their vision. I love using my skills to help businesses thrive and grow.
+  I am a web developer and designer with a passion for transforming people’s raw ideas into beautiful responsive websites that tell their stories and depict their vision.
   <br><br>
-  I am skilled in using HTML5, CSS, and Bootstrap. Additionally, I am familiar with PHP, JavaScript, and SQL. With an artistic background, I am also skilled in using Adobe Illustrator, Figma, and Photoshop. Finally, I am well-versed in SEO, SEM, and social media marketing strategies.  
+  I am skilled in using HTML5, CSS, and Bootstrap. Additionally, I am familiar with PHP, JavaScript, and SQL. With an artistic background, I am also skilled in using Adobe Illustrator and Photoshop. 
 
-  <br><br><br>
+  <br><br>
  
   
 theme: jekyll-theme-minimal
