@@ -3,7 +3,7 @@
 ## WordPress Projects that I have created or contributed to
 ---
 ### Live Band Service Website
-A website that I fully designed, developed, wrote content, and provided digital Marketing for.
+A website that I fully designed, developed, wrote content, and provided digital Marketing for. 
 <br>
 [Live Band Website](https://flavorbandatl.com)
 <br><br> 
