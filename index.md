@@ -3,7 +3,7 @@
 ## WordPress Projects that I have created or contributed to
 ---
 ### Live Band Service Website
-A website that I fully designed, developed, and provided digital Marketing for
+A website that I fully designed, developed, wrote content, and provided digital Marketing for.
 <br>
 [Live Band Website](https://flavorbandatl.com)
 <br><br> 
@@ -19,7 +19,7 @@ A website for a auto repair garage that I fully designed and integrated.
 
 ---
 ### E commerce Wesite
-A  E commerce website for a plant shop that I fully designed and integrated.
+An E-commerce website for a plant shop that I fully designed and integrated.
 [E commerce Website](https://plentifulplantsnursery.com/)
 <br><br>
 ![tm](images/PlentifulPlants.JPG)
