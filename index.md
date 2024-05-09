@@ -2,6 +2,14 @@
 ---
 ## WordPress Projects that I have created or contributed to
 ---
+### Live Band Service Website
+A website that I fully designed, developed, and provided digital Marketing for
+<br>
+[Live Band Website](https://flavorbandatl.com)
+<br><br> 
+![tm](images/Desktop_website.jpeg)
+
+---
 ### Auto Repair Website
 A website for a auto repair garage that I fully designed and integrated.
 <br>
