@@ -5,17 +5,17 @@
 ### Podcast & Food Blog Website
 A website that I fully designed, developed, wrote content, and provided digital Marketing for. 
 <br>
-[Live Band Website](https://wiseguysbbq.com)
+[Podcast & Blog Website](https://wiseguysbbq.com)
 <br><br> 
-![tm](images/website -min.jpeg)
+![tm](images/wgb_website_min.jpeg)
 
 ---
 ### News Blog Website
 A website that I fully designed, developed, wrote content, and provided digital Marketing for. 
 <br>
-[Live Band Website](https://bbqnews.com)
+[News Blog Website](https://bbqnews.com)
 <br><br> 
-![tm](images/bbq news website-crop-min.jpeg)
+![tm](images/bbq_news_website-crop-min.jpeg)
 
 ---
 
