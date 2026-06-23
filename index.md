@@ -2,6 +2,23 @@
 ---
 ## WordPress Projects that I have created or contributed to
 ---
+### Podcast & Food Blog Website
+A website that I fully designed, developed, wrote content, and provided digital Marketing for. 
+<br>
+[Live Band Website](https://wiseguysbbq.com)
+<br><br> 
+![tm](images/website -min.jpeg)
+
+---
+### News Blog Website
+A website that I fully designed, developed, wrote content, and provided digital Marketing for. 
+<br>
+[Live Band Website](https://bbqnews.com)
+<br><br> 
+![tm](images/bbq news website-crop-min.jpeg)
+
+---
+
 ### Live Band Service Website
 A website that I fully designed, developed, wrote content, and provided digital Marketing for. 
 <br>
