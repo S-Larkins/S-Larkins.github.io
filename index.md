@@ -7,7 +7,7 @@ A website that I fully designed, developed, wrote content, and provided digital 
 <br>
 [Podcast & Blog Website](https://wiseguysbbq.com)
 <br><br> 
-![tm](images/wgb_website_min.jpg)
+![tm](Images/bbq_news_website-crop-min.jpg)
 
 ---
 ### News Blog Website
@@ -15,7 +15,7 @@ A website that I fully designed, developed, wrote content, and provided digital 
 <br>
 [News Blog Website](https://bbqnews.com)
 <br><br> 
-![tm](images/bbq_news_website-crop-min.jpg)
+![tm](Images/wgb_website_min.jpg)
 
 ---
 
